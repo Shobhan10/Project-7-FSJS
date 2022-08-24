@@ -215,7 +215,7 @@ img[alt="actions"] {
     cursor: pointer;
 }
 
-/* responsive */
+/* --------- responsive ----------- */
 
 @media screen and (max-width: 1200px) {
     .left-section h3 {
@@ -277,6 +277,7 @@ img[alt="actions"] {
     .left-section .sub-headline {
         padding-left: 0;
     }
+
     /*
     Another way of taking the right section to the top
 
@@ -301,5 +302,4 @@ img[alt="actions"] {
     .nav-items {
         display: none;
     }
-    
 }
