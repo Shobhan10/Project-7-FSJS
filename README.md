@@ -22,7 +22,3 @@ Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`
 ### Screenshot
 
 ![Project-7 Screenshot](./project-7.png)
-
-### Mobile Layout:
-
-![Project-7 mobile Screenshot](./project-7-mobile.jpg)
