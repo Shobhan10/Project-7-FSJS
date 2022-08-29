@@ -10,6 +10,10 @@ Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`
 
 ![Project-7 Screenshot](./project-7.png)
 
+### Mobile Layout:
+
+![Project-7 mobile Screenshot](./project-7-mobile.jpg)
+
 - ### Learnings from this project:-
 
   - Learned to use grid.
